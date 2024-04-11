@@ -1,0 +1,3 @@
+ALTER TABLE Pets
+ADD COLUMN image_id VARCHAR(50)
+default NULL;
